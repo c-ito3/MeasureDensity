@@ -1,0 +1,29 @@
+# --- Data Files (Ignore these) ---
+*.csv
+*.txt
+*.dat
+*.root
+*.xml
+
+# --- Images and Plots (Ignore these) ---
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.gif
+*.bmp
+# --- System & IDE Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Build/Temp Files ---
+*.exe
+*.o
+*.so
+*.d
+__pycache__/
+*.pyc
+
